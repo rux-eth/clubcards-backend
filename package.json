@@ -1,0 +1,13 @@
+{
+  "name": "club-cards",
+  "private": true,
+  "dependencies": {
+    "web3-eth-abi": "^1.7.0",
+    "web3-utils": "^1.7.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.8.0",
+    "ts-node": "^10.3.9",
+    "typescript": "^4.5.4"
+  }
+}
